@@ -15,6 +15,7 @@ public class ReportGenerator {
     public void generateReport() {
 
         System.out.println("Seles Report on ::"+ LocalDateTime.now()+"Start()");
+        System.out.println("This is testing for Scheduling Report");
 
         System.out.println("End of sale Report "+LocalDateTime.now());
     }
